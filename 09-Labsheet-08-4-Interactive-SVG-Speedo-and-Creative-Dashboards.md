@@ -655,6 +655,9 @@ setInterval(pollTelemetry, 150);
 1. บันทึกวิดีโอคลิปสั้น (15-30 วินาที) โดยในคลิปต้องเห็น:
    - นิ้วมือนักศึกษากำลังหมุนตัวต้านทานปรับค่าได้บนบอร์ด ESP32
    - หน้าจอคอมพิวเตอร์ที่เข็มไมล์ Speedometer / VU Meter กวาดตามมืออย่างชัดเจน
+     
+https://youtube.com/shorts/PVa9K9q15kU?si=J5_ofa-cbQ9SY9b3
+
 2. แนบภาพหน้าจอซอร์สโค้ดและรายงานการทดลอง
 ```   using System.IO.Ports;
 var builder = WebApplication.CreateBuilder(args);
