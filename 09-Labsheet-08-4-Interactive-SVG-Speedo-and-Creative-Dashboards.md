@@ -661,6 +661,7 @@ https://youtube.com/shorts/PVa9K9q15kU?si=J5_ofa-cbQ9SY9b3
 
 ## สนามทดลองสร้างสรรค์ (Creative Playground: ปล่อยพลังแต่ง Dashboard) เลือก 1 แบบ
 
+https://youtube.com/shorts/0zMEYgaG6qs?si=H2A65Js1LvQq0Ssn
 
 ## กิจกรรมที่ 3: ทดสอบหมุนหน้าปัด
 
