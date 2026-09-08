@@ -164,6 +164,8 @@
 ```
 
 
+<img width="665" height="287" alt="image" src="https://github.com/user-attachments/assets/b11df1f1-5032-4ccb-a5e8-2a2c45e72f5e" />
+
 ---
 
 ## ภารกิจท้าทาย (Micro-Challenge)
