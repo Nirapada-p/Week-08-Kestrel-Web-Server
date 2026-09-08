@@ -117,6 +117,9 @@
 
 > เราไม่ได้สั่ง `json_encode()` หรือแปลงสตริงเลย เพียงแค่เราส่ง C# Anonymous Object ออกมา Kestrel จะทำการ Serialize เป็น JSON และแปะ Header `Content-Type: application/json` ให้อัตโนมัติ!
 
+
+<img width="642" height="215" alt="image" src="https://github.com/user-attachments/assets/35f593ec-c9f3-4612-b15f-3f959dd8bd19" />
+
 ---
 
 #### กิจกรรมที่ 4 การรับค่าผ่าน URL Path (Route Parameters)
