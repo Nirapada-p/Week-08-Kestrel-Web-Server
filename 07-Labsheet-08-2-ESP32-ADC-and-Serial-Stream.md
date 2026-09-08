@@ -152,6 +152,10 @@ Flash & Monitor ไปยัง ESP32 ตาม port ที่กำหนด (�
 python -m esptool -p COM24 --chip esp32 -b 460800 --before default_reset --after hard_reset write_flash --flash_mode dio --flash_size 2MB --flash_freq 40m 0x1000 build\bootloader\bootloader.bin 0x8000 build\partition_table\partition-table.bin 0x10000 build\esp32_adc_stream.bin && idf -p COM24 monitor
 ```
 
+
+<img width="782" height="363" alt="image" src="https://github.com/user-attachments/assets/caaee828-6487-408e-b30b-0ba9f5656a0e" />
+
+
 ---
 
 ### กิจกรรมที่ 2: ตรวจสอบสัญญาณผ่าน ESP-IDF Monitor
@@ -189,6 +193,9 @@ python -m esptool -p COM24 --chip esp32 -b 460800 --before default_reset --after
 ```
 
 แฟลชโปรแกรมใหม่อีกครั้ง และทดสอบหมุนดูว่าตัวเลขที่ออกมานิ่งและนุ่มนวลขึ้นอย่างเห็นได้ชัด
+
+
+<img width="837" height="380" alt="image" src="https://github.com/user-attachments/assets/12bc8313-200f-47f9-ad61-1331da2dbddd" />
 
 ---
 
