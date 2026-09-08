@@ -86,6 +86,9 @@
 
 ---
 
+<img width="617" height="153" alt="image" src="https://github.com/user-attachments/assets/fafdae7d-a696-4ff9-b9ab-db0149f64c3f" />
+
+
 #### กิจกรรมที่ 3 การแปลง C# Object เป็น JSON โดยอัตโนมัติ 
 
 ในระบบ IoT การสื่อสารส่วนใหญ่ใช้รูปแบบข้อมูล **JSON (JavaScript Object Notation)** มาดูกันว่า .NET จัดการเรื่องนี้ให้เราง่ายแค่ไหน
