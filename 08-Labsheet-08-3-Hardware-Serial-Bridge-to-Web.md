@@ -282,3 +282,7 @@ app.Run();
 - บันทึกภาพหน้าจอเบราว์เซอร์ขณะหมุนไปที่ระดับต่างๆ เพื่อแสดงว่าฟิลด์ `alertLevel` ทำงานถูกต้อง
 
 <img width="1626" height="167" alt="image" src="https://github.com/user-attachments/assets/99ddc3e8-540f-4d85-9119-a3b5ed6c071b" />
+
+<img width="1262" height="177" alt="image" src="https://github.com/user-attachments/assets/615c4cfc-f1d8-4ea7-b08d-fc9962db5afc" />
+
+<img width="1917" height="202" alt="image" src="https://github.com/user-attachments/assets/45f2f9b2-6ecf-4242-8904-edf2c646fd81" />
