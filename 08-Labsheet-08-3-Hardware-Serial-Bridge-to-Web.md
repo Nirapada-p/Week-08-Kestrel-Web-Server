@@ -256,6 +256,12 @@ app.Run();
 
 > 💡 **จุดว้าวที่ 3:** โลกกายภาพ (นิ้วมือหมุน Volume) ได้ส่งสัญญาณไฟฟ้า ทะลุสาย USB ผ่าน .NET Web Server และมาปรากฏเป็นข้อมูลบนหน้าเว็บได้อย่างสมบูรณ์แบบแล้ว!
 
+
+<img width="1058" height="138" alt="image" src="https://github.com/user-attachments/assets/3af250bd-6a8a-4e2c-95ad-f4000f17288a" />
+
+
+<img width="1152" height="147" alt="image" src="https://github.com/user-attachments/assets/23f63b98-f5a9-4441-a4a1-14a5ebbbe76c" />
+
 ---
 
 #### 📋 [Checkpoint 3.1: ทดสอบกลไก Fallback Simulation]
