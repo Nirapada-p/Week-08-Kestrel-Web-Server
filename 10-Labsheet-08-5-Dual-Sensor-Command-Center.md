@@ -361,6 +361,16 @@ public class DualSerialBridgeWorker : BackgroundService
     
 2. **รายงาน (markdown/pull request) สรุปผลการทดลอง**
    * ระบุเลขรหัสนักศึกษาและแสดงวิธีคำนวณหาเกจ์ซ้าย-ขวา
+   จากกติกาที่กำหนด ให้นำเลขรหัสนักศึกษา 3 ตัวท้าย (N) มาคำนวณตามสูตร:
+Left = (N mod 4) + 1
+Right = (⌊N / 4⌋ mod 4) + 1
+แทนค่า N = 118:
+
+| ตำแหน่ง | การคำนวณ | ผลลัพธ์ |
+| :--- | :--- | :---: |
+| **Left** | (118 mod 4) + 1 = 2 + 1 | 3 |
+| **Right** | (⌊118 / 4⌋ mod 4) + 1 = (29 mod 4) + 1 = 1 + 1 | 2 |
+
    * ภาพหน้าจอแดชบอร์ดที่ทำงานสมบูรณ์
      
      <img width="1077" height="572" alt="image" src="https://github.com/user-attachments/assets/c8ccf551-80d2-4d84-8f4d-fbee84d19810" />
