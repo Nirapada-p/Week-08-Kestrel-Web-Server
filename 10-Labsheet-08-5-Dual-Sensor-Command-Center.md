@@ -362,6 +362,9 @@ public class DualSerialBridgeWorker : BackgroundService
 2. **รายงาน (markdown/pull request) สรุปผลการทดลอง**
    * ระบุเลขรหัสนักศึกษาและแสดงวิธีคำนวณหาเกจ์ซ้าย-ขวา
    * ภาพหน้าจอแดชบอร์ดที่ทำงานสมบูรณ์
+     
+     <img width="1077" height="572" alt="image" src="https://github.com/user-attachments/assets/c8ccf551-80d2-4d84-8f4d-fbee84d19810" />
+
    * อธิบายหลักการทำงานของฟังก์ชัน JavaScript ในการเชื่อมต่อข้อมูล
 
 ### เกณฑ์การให้คะแนน (Rubric = 100 คะแนน)
